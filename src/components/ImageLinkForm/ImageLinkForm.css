@@ -40,9 +40,6 @@ input {
 }
 
 @media (max-width: 425px) {
-	.text {
-		font-size: 1.0rem;
-	}
 	.form {
 		padding: 0.7rem;
 	}
